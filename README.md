@@ -35,8 +35,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SaurabhKumarKashinwar&show_icons=true&theme=radical" alt="Saurabh's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhKumarKashinwar&layout=compact&theme=radical" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Saurabhss2029&show_icons=true&theme=radical" alt="Saurabh's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhss2029&layout=compact&theme=radical" alt="Top Languages" /></td>
   </tr>
 </table>
 
