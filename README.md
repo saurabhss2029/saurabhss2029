@@ -9,7 +9,7 @@
 
 ### 👨‍🎓 About Me
 
-🎓 I am a B.Tech Computer Science student at **KIET Group of Institutions,GHAZIABAD**, passionate about crafting beautiful and performant frontend experiences.
+🎓 I am a B.Tech Computer Science student at **KIET Group of Institutions**, passionate about crafting beautiful and performant frontend experiences.
 
 🚀 I enjoy solving real-world problems, building UI interfaces, and working with JavaScript technologies.
 
