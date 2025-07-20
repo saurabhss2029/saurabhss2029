@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/saurabhss2029/count.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saurabhss2029.saurabhss2029" alt="Profile Views" />
 </p>
 
 ---
