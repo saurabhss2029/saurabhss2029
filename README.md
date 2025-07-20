@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Passionate+Coder;DSA+Enthusiast;Open+Source+Lover;Learning+Every+Day" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/saurabhss2029/count.svg" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👨‍🎓 About Me
@@ -41,9 +45,6 @@
 </table>
 
 ---
-
-![Profile views](https://profile-counter.glitch.me/saurabhss2029/count.svg)
-
 
 ### 🧠 LeetCode Stats
 
