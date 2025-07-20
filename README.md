@@ -42,6 +42,9 @@
 
 ---
 
+![Profile views](https://profile-counter.glitch.me/saurabhss2029/count.svg)
+
+
 ### 🧠 LeetCode Stats
 
 <p align="center">
